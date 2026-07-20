@@ -11,4 +11,7 @@ My solutions to LeetCode problems, organized by topic.
 | 20 | Valid Parentheses | Easy | Stack | [Link](stack/0020-valid-parentheses.py) |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | [Link](linked-list/0021-merge-two-sorted-lists.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | [Link](array/0026-remove-duplicates-from-sorted-array.py) |
-| 27 | Remove Element | Easy | Array, Two Pointers | [Link](array/0027-remove-element.py) |
+| 27 | Remove Element | Easy | Array, Two Pointers | [Link](array/0027-remove-element.py) || # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 28 | Find the Index of the First Occurrence in a String | Easy | [link](Strings/find-first-occurrence.py) |
+| 35 | Search Insert Position | Easy | [link](Arrays/search-insert-position.py) |
