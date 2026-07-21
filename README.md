@@ -14,11 +14,12 @@ My solutions to LeetCode problems, organized by topic.
 | 27 | Remove Element | Easy | Array, Two Pointers | [Link](Arrays/remove-element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | String | [Link](Strings/find-first-occurrence.py) |
 | 35 | Search Insert Position | Easy | Array, Binary Search | [Link](Arrays/search-insert-position.py) |
+| 2 | Add Two Numbers | Medium | Linked List, Math | [Link](linked-list/add-two-numbers.py) |
 
 ## Progress
 
-- Total Solved: **10**
-- Easy: 10 | Medium: 0 | Hard: 0
+- Total Solved: **11**
+- Easy: 10 | Medium: 1 | Hard: 0
 
 ## Structure
 
