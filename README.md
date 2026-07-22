@@ -15,11 +15,12 @@ My solutions to LeetCode problems, organized by topic.
 | 28 | Find the Index of the First Occurrence in a String | Easy | String | [Link](Strings/find-first-occurrence.py) |
 | 35 | Search Insert Position | Easy | Array, Binary Search | [Link](Arrays/search-insert-position.py) |
 | 2 | Add Two Numbers | Medium | Linked List, Math | [Link](linked-list/add-two-numbers.py) |
+| 3 | Longest Substring Without Repeating Characters | Medium | String, Sliding Window | [Link](string/longest-substring-without-repeating.py) |
 
 ## Progress
 
-- Total Solved: **11**
-- Easy: 10 | Medium: 1 | Hard: 0
+- Total Solved: **12**
+- Easy: 10 | Medium: 2 | Hard: 0
 
 ## Structure
 
