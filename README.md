@@ -16,11 +16,12 @@ My solutions to LeetCode problems, organized by topic.
 | 35 | Search Insert Position | Easy | Array, Binary Search | [Link](Arrays/search-insert-position.py) |
 | 2 | Add Two Numbers | Medium | Linked List, Math | [Link](linked-list/add-two-numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | String, Sliding Window | [Link](string/longest-substring-without-repeating.py) |
+| 7 | Reverse Integer | Medium | Math | [Link](math/reverse-integer.py) |
 
 ## Progress
 
-- Total Solved: **12**
-- Easy: 10 | Medium: 2 | Hard: 0
+- Total Solved: **13**
+- Easy: 10 | Medium: 3 | Hard: 0
 
 ## Structure
 
