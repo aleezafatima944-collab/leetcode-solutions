@@ -17,11 +17,12 @@ My solutions to LeetCode problems, organized by topic.
 | 2 | Add Two Numbers | Medium | Linked List, Math | [Link](linked-list/add-two-numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | String, Sliding Window | [Link](string/longest-substring-without-repeating.py) |
 | 7 | Reverse Integer | Medium | Math | [Link](math/reverse-integer.py) |
+| 11 | Container With Most Water | Medium | Array, Two Pointers | [Link](array/container-with-most-water.py) |
 
 ## Progress
 
-- Total Solved: **13**
-- Easy: 10 | Medium: 3 | Hard: 0
+- Total Solved: **14**
+- Easy: 10 | Medium: 4 | Hard: 0
 
 ## Structure
 
